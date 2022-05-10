@@ -43,9 +43,7 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-facebook:hover,.fa-instagram:hover,.fa-linkedin:hover, {
-    color: #008000;
-}
+
 .fab {
     color: #000000;
 }
